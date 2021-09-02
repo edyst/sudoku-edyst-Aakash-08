@@ -18,11 +18,11 @@ html {
 }
 
 .topBorder {
-  border-top: 2px solid black !important;
+  border-top: 2px solid #344861 !important;
 }
 
 .bottomBorder {
-  border-bottom: 2px solid black !important;
+  border-bottom: 2px solid #344861 !important;
 }
 
 .rightBorder {
