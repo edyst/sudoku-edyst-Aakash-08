@@ -546,3 +546,4 @@ function gameBoard(board) {
     id("board").appendChild(cell);
   }
 }
+
