@@ -8,8 +8,8 @@ html {
   text-align: center;
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: Source Sans Pro, sans-serif;
-  font-size: 25px;
+  font-family: sans-serif,"Source Sans Pro";
+  /* font-size: 25px; */
   font-weight: bold;
 }
 
@@ -50,11 +50,11 @@ html {
   border: none;
   text-align: center;
   justify-self: center;
-  border-radius: 10px;
-  width: 80px;
+  /* border-radius: 10px; */
+  width: 100px;
   height: 30px;
-  font-family: Source Sans Pro, sans-serif;
-  font-size: 20px;
+  font-family:  sans-serif ,"Source Sans Pro";
+  font-size: 25px;
 }
 
 .cell {
@@ -104,12 +104,13 @@ html {
   justify-content: center;
   align-items: center;
   margin-top: 0;
+ margin-left: 47%;
 }
 
 .prefilled {
   background-color: #e8e8e4;
   /* user-select: none; */
-  color: rgb(14, 7, 119);
+  color: black;
   font-size: 25px;
   font-weight: bold;
 }
